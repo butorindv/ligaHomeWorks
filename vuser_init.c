@@ -1,6 +1,6 @@
 vuser_init()
 {
-	/*Correlation comment - Do not change!  Original value='130995.321344674zHDiAHVpitVzzzzHtAtciptDVAf' Name ='userSession' Type ='ResponseBased'*/
+	/*Correlation comment - Do not change  !  Original value='130995.321344674zHDiAHVpitVzzzzHtAtciptDVAf' Name ='userSession' Type ='ResponseBased'*/
 	web_reg_save_param_attrib(
 		"ParamName=userSession",
 		"TagName=input",

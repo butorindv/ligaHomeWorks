@@ -18,8 +18,10 @@
     <FileEntry Name="City.dat" Filter="2" />
     <FileEntry Name="City2.dat" Filter="2" />
     <FileEntry Name="Options.dat" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="combined_HWLesson4.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="185594000440.idx" Filter="1" />
     <FileEntry Name="197219018440.idx" Filter="1" />
     <FileEntry Name="237845385440.idx" Filter="1" />
@@ -493,6 +495,7 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
